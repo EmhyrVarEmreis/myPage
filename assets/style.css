@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url('bg.jpg') fixed center center no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-weight: 300;
+    color: #fff;
+}
+
+.wrapper {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.avatar img {
+    border-radius: 50%;
+    box-shadow: 0 0 0 2px #fff;
+}
+
+.avatar h1 {
+    text-shadow: 0 1px black;
+}
+
+.btn {
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 8px;
+    padding: 8px;
+    background: #fff;
+    border-radius: 5px;
+}
