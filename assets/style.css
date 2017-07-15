@@ -3,7 +3,6 @@ body {
     background: url('bg.jpg') fixed center center no-repeat;
     background-size: cover;
     text-align: center;
-    font-weight: 300;
     color: #fff;
 }
 
